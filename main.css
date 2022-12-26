@@ -54,7 +54,7 @@ button:hover {
 .btn-grey {
   background-color: grey;
 }
-video {
+iframe {
   width: 80%;
   height: auto;
   margin: auto;
