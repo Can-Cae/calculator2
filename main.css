@@ -55,8 +55,8 @@ button:hover {
   background-color: grey;
 }
 iframe {
-  width: 80%;
-  height: auto;
+  width: 1500px;
+  height:1000px;
   margin: auto;
   display: block;
   max-width: 1000px;
